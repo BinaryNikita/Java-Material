@@ -1,0 +1,4 @@
+Hello, world
+What is ASCII Value?
+ASCII stands for American Standard Code for Information Interchange. 
+A character encoding standard that assigns unique numerical values to letters, digits, punctuation marks, and other symbols.
